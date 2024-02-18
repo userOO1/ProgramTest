@@ -1,0 +1,15 @@
+C:\Users\user\source\3 семестр\TEST2\bin\Debug\net6.0\TEST2.exe
+C:\Users\user\source\3 семестр\TEST2\bin\Debug\net6.0\TEST2.deps.json
+C:\Users\user\source\3 семестр\TEST2\bin\Debug\net6.0\TEST2.runtimeconfig.json
+C:\Users\user\source\3 семестр\TEST2\bin\Debug\net6.0\TEST2.dll
+C:\Users\user\source\3 семестр\TEST2\bin\Debug\net6.0\TEST2.pdb
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.csproj.AssemblyReference.cache
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.AssemblyInfoInputs.cache
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.AssemblyInfo.cs
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.dll
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\refint\TEST2.dll
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.pdb
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\TEST2.genruntimeconfig.cache
+C:\Users\user\source\3 семестр\TEST2\obj\Debug\net6.0\ref\TEST2.dll
